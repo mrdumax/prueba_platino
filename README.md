@@ -18,4 +18,4 @@ Entre las características que quieren:
 En el diagrama muestra la 1ra versión de la relación entre objetos de la solución planteada
 
 
-![Diagrama de clases v1.0](http://img/Peluqueria.drawio.png)
+![Diagrama de clases v1.0](https://raw.githubusercontent.com/mrdumax/prueba_platino/main/img/Peluqueria.drawio.png)
