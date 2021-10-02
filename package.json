@@ -15,8 +15,10 @@
     "nodemon": "^2.0.13"
   },
   "dependencies": {
+    "bootstrap": "^5.1.1",
     "browser-sync": "^2.27.5",
     "express": "^4.17.1",
+    "mongodb": "^4.1.2",
     "pug": "^3.0.2"
   }
 }
